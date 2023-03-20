@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhanavibhatt&label=Profile%20views&color=0e75b6&style=flat" alt="jhanavibhatt" /> </p>
-
+- 🔭 I’m in pre-final year of collage,i am pursuing B.tech.in Computer Engineering.
 - 🌱 I’m currently learning **React-js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jhanavibhatt](https://github.com/jhanavibhatt)
