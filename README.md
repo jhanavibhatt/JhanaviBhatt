@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhanavibhatt&label=Profile%20views&color=0e75b6&style=flat" alt="jhanavibhatt" /> </p>
 
-- 🔭 I’m in my pre-final year of collage,i am pursuing B.tech.in Computer Engineering.
+- 🔭 I’m in my pre-final year of collage,I’m pursuing B.tech.in Computer Engineering.
 
 - 🌱 I’m currently learning **React-js**
 
