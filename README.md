@@ -5,7 +5,7 @@
 
 - 🔭 I’m in my pre-final year of collage,I’m pursuing B.tech.in Computer Engineering.
 
-- 🌱 I’m currently learning **React-js**
+- 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jhanavibhatt](https://github.com/jhanavibhatt)
 
