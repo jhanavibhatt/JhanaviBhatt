@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jhanavi Bhatt</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Android developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhanavibhatt&label=Profile%20views&color=0e75b6&style=flat" alt="jhanavibhatt" /> </p>
 
 - 🔭 I’m in my pre-final year of collage,I’m pursuing B.tech.in Computer Engineering.
 
-- 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jhanavibhatt](https://github.com/jhanavibhatt)
 
